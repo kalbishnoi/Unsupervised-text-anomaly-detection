@@ -9,3 +9,9 @@ Model will inherently capture the information about the certain portions of text
 Hence, facilitating **direct anomaly localisation**.
 Training data contains only the non-anomalous data, its anomalous part is generated using **pseudo text anomaly generation model**.
 ![our solution](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/85296d5a-a3cb-40bf-93d0-b64cd7be87f1)
+## Architecture Diagram
+![Training](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/fe891fea-fceb-4028-be4c-6d5e9b16fe45)
+![Testing](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/8b8f5f01-bd08-4e27-8f76-1f442a133767)
+## Pipeline for Pseudo Text Anomaly Generation Model
+![Pipeline Pseudo Anomaly Generation](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/6b5081f0-500b-4138-88b5-f69e9771225e)
+## Results for Pseudo Text Anomaly Generation
