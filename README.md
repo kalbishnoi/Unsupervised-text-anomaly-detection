@@ -18,5 +18,12 @@ Training data contains only the non-anomalous data, its anomalous part is genera
 ![Components of the Model](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/863d6c7a-65d4-42a1-8a7b-68402e9ec179)
 ![Pseudo Text Anomaly Generation](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/f9f2ac5a-6bf5-4750-a899-f048f664febe)
 ![Anomaly Detection and Localisation + mask prediction](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/7e339b2e-71fd-4383-ac14-59cc1de7a00f)
-
+## Targeted datasets
+- AG News
+- 20Newsgroups
+- Reuters-21578
+## Literature survey
+- DATE: https://aclanthology.org/2021.naacl-main.25.pdf
+- FATE: https://www.researchgate.net/publication/373332943_Few-shot_Anomaly_Detection_in_Text_with_Deviation_Learning
+- DRAEM: https://arxiv.org/pdf/2108.07610.pdf
 
