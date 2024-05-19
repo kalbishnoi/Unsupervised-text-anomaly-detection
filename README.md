@@ -1,3 +1,10 @@
+## How to run the code
+- Component I: Pseudo Text Anomaly Generation
+  - For training, provide the directory to the dataset to be used in the code (train_test_ag.py / train_test_ag.ipynb).
+  - For testing, provide the directory to the dataset on which testing needs to be done in the code, results will be stored in results.xlsx file.
+- Component II: Anomaly Detection and Localisation + mask prediction
+  - For training, provide the directory to the dataset to be used in the code, here we will use the results.xlsx as the training data. Code is train_II.py/ train_II.ipynb.
+  - For testing, provide the directory to the dataset on which testing needs to be done in the code. Here we will use, outliers file for testing.
 ## Current methods drawbacks
 Current methods use reconstructive/generative approach. They require hand crafted post processing techniques for anomaly localisation.
 ![current methods](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/7b9c8a35-da2a-4402-acc0-082dc13e463e)
