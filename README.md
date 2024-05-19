@@ -1,3 +1,4 @@
+## Running code
 ## Current methods drawbacks
 Current methods use reconstructive/generative approach. They require hand crafted post processing techniques for anomaly localisation.
 ![current methods](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/7b9c8a35-da2a-4402-acc0-082dc13e463e)
