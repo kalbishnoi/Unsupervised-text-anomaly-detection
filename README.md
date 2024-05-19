@@ -14,4 +14,5 @@ Training data contains only the non-anomalous data, its anomalous part is genera
 ![Training](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/fe891fea-fceb-4028-be4c-6d5e9b16fe45)
 ![Testing](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/8b8f5f01-bd08-4e27-8f76-1f442a133767)
 ## Pipeline for Pseudo Text Anomaly Generation Model
-![Pipeline Pseudo Anomaly Generation](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/6b5081f0-500b-4138-88b5-f69e9771225e)
+![Pipeline Pseudo Anomaly Generation](![image](https://github.com/kalbishnoi/Unsupervised-text-anomaly-detection/assets/140685270/7e0f0708-bddf-48f5-ba9a-f2c1d734a111)
+)
