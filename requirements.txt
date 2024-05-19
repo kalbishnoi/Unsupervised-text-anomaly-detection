@@ -1,0 +1,8 @@
+nltk
+wget
+pandas
+transformers
+tensorflow
+matplotlib
+openpyxl
+tqdm
